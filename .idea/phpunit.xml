@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/ServiceDesk/Packages/spatie/ActivityLog/tests" />
+        <option value="$PROJECT_DIR$/billing/tests" />
+        <option value="$PROJECT_DIR$/Quran/LaravelQuranAPI/tests" />
+        <option value="$PROJECT_DIR$/faveo/tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/DepartmentStatusLink/Tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/Ldap/tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/AzureActiveDirectory/tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/Facebook/tests" />
+        <option value="$PROJECT_DIR$/faveo/app/FaveoReport/Tests" />
+        <option value="$PROJECT_DIR$/faveo/app/TimeTrack/Tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/ServiceDesk/tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/Telephony/tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/LanguageMigrate/tests" />
+        <option value="$PROJECT_DIR$/faveo/app/FaveoStorage/tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/Twitter/tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/Whatsapp/Tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/Calendar/Tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/Chat/Tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/Slack/tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Location/tests" />
+        <option value="$PROJECT_DIR$/faveo/app/AutoAssign/tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/CustomJs/Tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/CustomLanguage/tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins/TicketArchive/tests" />
+        <option value="$PROJECT_DIR$/faveo/app/Plugins" />
+        <option value="$PROJECT_DIR$/faveo/app/Bill" />
+        <option value="$PROJECT_DIR$/faveo/app/FaveoLog" />
+        <option value="$PROJECT_DIR$/faveo/app/FileManager" />
+        <option value="$PROJECT_DIR$/faveo/app/FaveoModule" />
+        <option value="$PROJECT_DIR$/faveo/app/Form" />
+        <option value="$PROJECT_DIR$/app/Plugins/DepartmentStatusLink/Tests" />
+        <option value="$PROJECT_DIR$/app/Plugins/Ldap/tests" />
+        <option value="$PROJECT_DIR$/app/Plugins/AzureActiveDirectory/tests" />
+        <option value="$PROJECT_DIR$/app/Plugins/Facebook/tests" />
+        <option value="$PROJECT_DIR$/app/FaveoReport/Tests" />
+        <option value="$PROJECT_DIR$/app/TimeTrack/Tests" />
+        <option value="$PROJECT_DIR$/app/Plugins/ServiceDesk/tests" />
+        <option value="$PROJECT_DIR$/app/Plugins/Telephony/tests" />
+        <option value="$PROJECT_DIR$/app/Plugins/LanguageMigrate/tests" />
+        <option value="$PROJECT_DIR$/app/FaveoStorage/tests" />
+        <option value="$PROJECT_DIR$/app/Plugins/Twitter/tests" />
+        <option value="$PROJECT_DIR$/app/Plugins/Whatsapp/Tests" />
+        <option value="$PROJECT_DIR$/app/Plugins/Calendar/Tests" />
+        <option value="$PROJECT_DIR$/app/Plugins/Chat/Tests" />
+        <option value="$PROJECT_DIR$/app/Plugins/Slack/tests" />
+        <option value="$PROJECT_DIR$/app/Location/tests" />
+        <option value="$PROJECT_DIR$/app/AutoAssign/tests" />
+        <option value="$PROJECT_DIR$/app/Plugins/CustomJs/Tests" />
+        <option value="$PROJECT_DIR$/app/Plugins/CustomLanguage/tests" />
+        <option value="$PROJECT_DIR$/app/Plugins/TicketArchive/tests" />
+        <option value="$PROJECT_DIR$/app/Plugins" />
+        <option value="$PROJECT_DIR$/app/Bill" />
+        <option value="$PROJECT_DIR$/app/FaveoLog" />
+        <option value="$PROJECT_DIR$/app/FileManager" />
+        <option value="$PROJECT_DIR$/app/FaveoModule" />
+        <option value="$PROJECT_DIR$/app/Form" />
+        <option value="$PROJECT_DIR$/tests" />
+      </list>
+    </option>
+  </component>
+</project>
